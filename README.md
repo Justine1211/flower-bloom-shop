@@ -4,7 +4,7 @@ This is a front-end project for an online flower shop, built using HTML and CSS
 
 ## 🔥 Features
 - Elegant landing page for flower products
-- Responsive design (mobile-friendly)
+- Responsive design 
 - Product sections with hover animations
 - Clean and modern UI
 
